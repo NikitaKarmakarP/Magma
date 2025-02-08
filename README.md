@@ -36,10 +36,16 @@ Magma is designed for:
 - Building visually impressive projects
 - Showcasing smooth frame transitions and typography
 
+---
+
 ## 💡 Contribute
 We welcome contributions to enhance this project! Fork, sync, or suggest new features.
 
+---
+
 ## 📜 License
 This project is currently not licensed.
+
+---
 
 **Enjoy the lava flow of creativity! 🌋🔥**
