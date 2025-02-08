@@ -29,15 +29,17 @@ Welcome to **Magma**, a visually captivating web-based project that brings creat
 Navigate to the project directory and open index.html in your browser.
 
 ## 🎯 Purpose
+
 Magma is designed for:
 
-Experimenting with creative animations
-Building visually impressive projects
-Showcasing smooth frame transitions and typography
-💡 Contribute
+- Experimenting with creative animations
+- Building visually impressive projects
+- Showcasing smooth frame transitions and typography
+
+## 💡 Contribute
 We welcome contributions to enhance this project! Fork, sync, or suggest new features.
 
-📜 License
+## 📜 License
 This project is currently not licensed.
 
-Enjoy the lava flow of creativity! 🌋🔥
+**Enjoy the lava flow of creativity! 🌋🔥**
